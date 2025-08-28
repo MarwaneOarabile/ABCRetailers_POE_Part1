@@ -1,0 +1,156 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+/*style from my prog cyber bot application*/
+/* Background + Titles */
+body {
+    margin-bottom: 60px;
+    background-color: #1E1E2F;
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 15px;
+}
+
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 38px;
+    font-weight: bold;
+    color: #2D89EF;
+}
+
+.subtitle {
+    font-weight: 600;
+    color: #F0AD4E;
+}
+
+/* Buttons */
+.btn-theme {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: 600;
+    color: white;
+    height: 100%;
+    transition: 0.3s ease-in-out;
+}
+
+    .btn-theme small {
+        color: #ddd;
+    }
+
+    .btn-theme:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 0 15px rgba(255,255,255,0.2);
+    }
+
+.btn-blue {
+    background: #2D89EF;
+}
+
+.btn-green {
+    background: #28A745;
+}
+
+.btn-orange {
+    background: #F0AD4E;
+    color: black;
+}
+
+.btn-purple {
+    background: #6F42C1;
+}
+
+/* Cards */
+.card-theme {
+    background: #2A2A3C;
+    border-radius: 10px;
+    padding: 10px;
+    height: 100%;
+    transition: 0.3s;
+    text-align: center;
+    color: white;
+}
+
+    .card-theme:hover {
+        box-shadow: 0 0 15px rgba(45,137,239,0.5);
+    }
+
+    .card-theme img {
+        height: 150px;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+.placeholder {
+    background: #3A3A50;
+    height: 150px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Prices */
+.price {
+    font-weight: bold;
+    color: #28A745;
+}
+
+/* Alerts */
+.alert-box {
+    padding: 15px;
+    border-radius: 8px;
+    margin: 20px 0;
+    font-weight: 500;
+}
+
+.alert-blue {
+    background: rgba(45,137,239,0.2);
+    border-left: 5px solid #2D89EF;
+}
+
+.alert-orange {
+    background: rgba(240,173,78,0.2);
+    border-left: 5px solid #F0AD4E;
+}
+
+/* Links */
+.link-theme {
+    color: #2D89EF;
+    text-decoration: underline;
+}
+
+    .link-theme:hover {
+        color: #6F42C1;
+    }
