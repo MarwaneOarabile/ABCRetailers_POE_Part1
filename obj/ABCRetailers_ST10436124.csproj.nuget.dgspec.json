@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212  Cloud Development B\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\ABCRetailers_ST10436124.csproj": {}
+    "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\ABCRetailers_ST10436124.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212  Cloud Development B\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\ABCRetailers_ST10436124.csproj": {
+    "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\ABCRetailers_ST10436124.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212  Cloud Development B\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\ABCRetailers_ST10436124.csproj",
+        "projectUniqueName": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\ABCRetailers_ST10436124.csproj",
         "projectName": "ABCRetailers_ST10436124",
-        "projectPath": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212  Cloud Development B\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\ABCRetailers_ST10436124.csproj",
+        "projectPath": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\ABCRetailers_ST10436124.csproj",
         "packagesPath": "C:\\Users\\Oarabile Marwane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212  Cloud Development B\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\obj\\",
+        "outputPath": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

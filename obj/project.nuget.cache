@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pIi5LEi5Ugk=",
+  "dgSpecHash": "wHTElYdeEj8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212  Cloud Development B\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\ABCRetailers_ST10436124.csproj",
+  "projectFilePath": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\ABCRetailers_ST10436124.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Oarabile Marwane\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\Oarabile Marwane\\.nuget\\packages\\azure.data.tables\\12.11.0\\azure.data.tables.12.11.0.nupkg.sha512",

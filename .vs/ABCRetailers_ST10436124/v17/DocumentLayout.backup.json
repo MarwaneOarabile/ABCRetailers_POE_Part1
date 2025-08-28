@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212  Cloud Development B\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6617ACA4-A5EB-41EC-9B8B-C187B54D40DB}|ABCRetailers_ST10436124.csproj|c:\\users\\oarabile marwane\\onedrive - advtech ltd\\oarabile\\2025\\semester 4\\cldv6212\\cldv6212_ass1_st10436124\\abcretailers_st10436124\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6617ACA4-A5EB-41EC-9B8B-C187B54D40DB}|ABCRetailers_ST10436124.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6617ACA4-A5EB-41EC-9B8B-C187B54D40DB}|ABCRetailers_ST10436124.csproj|c:\\users\\oarabile marwane\\onedrive - advtech ltd\\oarabile\\2025\\semester 4\\cldv6212\\cldv6212_ass1_st10436124\\abcretailers_st10436124\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6617ACA4-A5EB-41EC-9B8B-C187B54D40DB}|ABCRetailers_ST10436124.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6617ACA4-A5EB-41EC-9B8B-C187B54D40DB}|ABCRetailers_ST10436124.csproj|c:\\users\\oarabile marwane\\onedrive - advtech ltd\\oarabile\\2025\\semester 4\\cldv6212\\cldv6212_ass1_st10436124\\abcretailers_st10436124\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6617ACA4-A5EB-41EC-9B8B-C187B54D40DB}|ABCRetailers_ST10436124.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +47,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T14:54:03.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T14:45:46.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Oarabile Marwane\\OneDrive - ADvTECH Ltd\\Oarabile\\2025\\Semester 4\\CLDV6212\\CLDV6212_ASS1_ST10436124\\ABCRetailers_ST10436124\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T14:44:56.244Z",
+              "EditorCaption": ""
             }
           ]
         },
